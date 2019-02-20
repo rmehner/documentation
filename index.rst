@@ -6,8 +6,7 @@
 .. toctree::
   :hidden:
 
-  mailserver/index
-  nextcloud/index
+  nameserver/index
   support
 
 ===========================================
@@ -18,7 +17,7 @@ This is the Ops One documentation.
 It's targeted at an technical audience, mainly developers and sysadmins.
 Marketing and contract related details are available on our `website <https://opsone.ch>`_.
 
-This version contains all SaaS-Applications.
+This version contains all DNS relevant things.
 
 We got your back
 -------------------------------------------
